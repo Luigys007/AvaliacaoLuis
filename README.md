@@ -1,5 +1,8 @@
 # avaliacaoluis
 
+Aluno : Luís Carlos Santos Silva
+Materia: Desenvolvimento Mobile
+
 A new Flutter project.
 
 ## Getting Started
